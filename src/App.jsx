@@ -107,14 +107,6 @@ This setup satisfies the exhaustive-deps rule of ESLint, ensuring that all depen
           </div>
         </>
       )}
-      <div className="buttons">
-        {page > 1 && (
-          <Button onClick={() => setPage(page - 1)}>Previous</Button>
-        )}
-        {page < totalPages && (
-          <Button onClick={() => setPage(page + 1)}>Next</Button>
-        )}
-      </div>
     </div>
   );
 };

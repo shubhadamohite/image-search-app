@@ -8,5 +8,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
-Uploading Screen Recording 2023-12-08 at 7.03.44 PM.mov…
+
+
+https://github.com/shubhadamohite/image-search-app/assets/47294531/6eac0c40-50e2-4dcc-8f10-654224bf2640
 
